@@ -6,18 +6,12 @@
   #role: Founder & Primary Developer
   #duration: 2012 &mdash; Present
   # url: "#"
-   description: Designed A Secure VPN Network That Supports 50 Remote Encrypted Connections.
-   description: Created Github Repo For Beginner CMD, PowerShell, Nmap, Cybersecurity, And CEH Resources.
-   description: Developed Secure, User-Friendly Private Cloud As A Cost-Effective Alternative To Public Clouds.
-   description: 3-Month Project-Based Internship With Cyber Secured India, Taking Part In Real-World Projects.
-   description: Built A Multi-Domain Active Directory Lab For Extensive Attack Simulations.
-   description: Developed An Advanced Browser-Based Hacking Lab For Hands-on Penetration Testing.
-   description: Experience With Nmap And Bash Scripting To Automate The Fingerprinting Phases Of VAPT.
-
-
+  
 # Springfield Community Outreach Group
 - #project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- organization: OpenVPN
+  role: Created
+  duration: 2022 &mdash; Present
+  url: https://openvpn.net/
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Designed A Secure VPN Network That Supports 50 Remote Encrypted Connections.
