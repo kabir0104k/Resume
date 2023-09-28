@@ -6,12 +6,11 @@
   #role: Founder & Primary Developer
   #duration: 2012 &mdash; Present
   # url: "#"
-  
+
 # Springfield Community Outreach Group
 - #project: Springfield Community Outreach Group
-- organization: OpenVPN
-  role: Created
-  duration: 2022 &mdash; Present
+  organization: OpenVPN
   url: https://openvpn.net/
-  # url: "#"
+  #role: 
+  #duration: 2022 &mdash; Present
   description: Designed A Secure VPN Network That Supports 50 Remote Encrypted Connections.
