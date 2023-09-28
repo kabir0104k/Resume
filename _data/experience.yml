@@ -1,19 +1,11 @@
 # Jobs
 # VP of Global Communications
-resume-item-list:
-   Completed A 6-Month Remote Internship At Mossé Cyber Security Institute
-   Certified Penetration Tester Skilled In Real-World VAPT For Diverse Systems
-   Pentested 7 Client Networks, Discovering 3 Vulnerabilities And Offering Effective Security Solutions
-   Created A Detailed Proof Of Concept And Conducted Full Vulnerability Research, Providing Practical Safety Tips
-   Conducted Blackbox Penetration Testing, Successfully Identifying Vulnerabilities And Delivering Security Solutions
-   Proficient In Analyzing Systems, Including Hard Drives, Ram, USB Cards, And Digital Media
-   Familiar With A Wide Range Of Enterprise-Level Penetration Testing Tools, Both Open-source And Commercial
-
+<ul class="resume-item-list"><li>Completed A 6-Month Remote Internship At Mossé Cyber Security Institute</li><li>Certified Penetration Tester Skilled In Real-World VAPT For Diverse Systems</li><li>Pentested 7 Client Networks, Discovering 3 Vulnerabilities And Offering Effective Security Solutions</li></ul>Created A Detailed Proof Of Concept And Conducted Full Vulnerability Research, Providing Practical Safety Tips</li></ul>Conducted Blackbox Penetration Testing, Successfully Identifying Vulnerabilities And Delivering Security Solutions</li></ul>Proficient In Analyzing Systems, Including Hard Drives, Ram, Usb Cards, And Digital Media</li></ul>Familiar With A Wide Range Of Enterprise-Level Penetration Testing Tools, Both Open-source And Commercial</li>
 
 #- company: Springfield International Human Rights Outreach
-  position: Independent Security Researcher 
+ position: Independent Security Researcher 
   duration: May, 2022 &mdash; Present 
- #summary
+ #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - #company: United Nations Human Rights Council
